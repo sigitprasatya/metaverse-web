@@ -24,6 +24,5 @@ export const TitleText = ({ title, textStyles }) => (
     className={`mt-[8px] font-bold md:text-[64px] text-[40px] text-white ${textStyles}`}
   >
     {title}
-
   </motion.h2>
 );
